@@ -85,7 +85,7 @@ export default function Home() {
             Invite Aboterasu to your Server!
           </Link>
         </p>
-        <p style={{ fontSize: 20, paddingTop: '30px' }}>Some of Aboterasu's features:</p>
+        <p style={{ fontSize: 20, paddingTop: '30px' }}>Some of Aboterasu\'s features:</p>
         <div ref={scrollRef} style={{ overflowX: 'auto', whiteSpace: 'nowrap', padding: '50px 0' }}>
           {items.concat(items).map((item, index) => ( // Duplicate items for circular effect
             <div
@@ -174,7 +174,7 @@ export default function Home() {
               onMouseLeave={() => setIsHovered(false)}
             />
           </a>
-          <p>Mytharria's Calculator</p>
+          <p>Mytharria\'s Calculator</p>
         </div>
       </div>
       <nav style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', textAlign: 'center', marginTop: '20px' }}>

@@ -28,7 +28,7 @@ export default function PrivacyPolicy() {
             </Link>
             <h1>Privacy Policy for Aboterasu (Aboterasu#7281)</h1>
             <h2>Effective Date: 13th March, 2025</h2>
-            <p>This Privacy Policy describes how Aboterasu ("we", "us", or "our") collects, uses, and protects your information when you use our Discord bot (the "Bot").</p>
+            <p>This Privacy Policy describes how Aboterasu (\"we\", \"us\", or \"our\") collects, uses, and protects your information when you use our Discord bot (the \"Bot\").</p>
             <ol style={{ listStyleType: 'upper-roman' }}>
                 <li><b>Information We Collect</b></li>
                 <p>When you use our Bot, we may collect:</p>
@@ -43,7 +43,7 @@ export default function PrivacyPolicy() {
                 <li><b>How We Use Your Information</b></li>
                 <p>We use the collected information to:</p>
                 <ol style={{ listStyleType: 'lower-roman', marginLeft: '20px' }}>
-                    <li>Provide and maintain the Bot's services</li>
+                    <li>Provide and maintain the Bot\'s services</li>
                     <li>Improve user experience</li>
                     <li>Track usage patterns and optimize features</li>
                     <li>Respond to user inquiries and support requests</li>
@@ -56,9 +56,9 @@ export default function PrivacyPolicy() {
                 <p>We retain your data only for as long as necessary to provide our services. You can request deletion of your data at any time through our Discord support server.</p>
 
                 <li><b>Third-Party Services</b></li>
-                <p>We do not sell or share your personal information with third parties. The Bot may interact with Discord's API and SMITE2's API to provide services.</p>
+                <p>We do not sell or share your personal information with third parties. The Bot may interact with Discord\'s API and SMITE2\'s API to provide services.</p>
 
-                <li><b>Children's Privacy</b></li>
+                <li><b>Children\'s Privacy</b></li>
                 <p>The Bot is not intended for users under 13 years of age. We do not knowingly collect personal information from children under 13.</p>
 
                 <li><b>Your Rights</b></li>
@@ -75,7 +75,7 @@ export default function PrivacyPolicy() {
                 <li><b>Contact Us</b></li>
                 <p>If you have questions about this Privacy Policy, please contact us.</p>
                 <ol>
-                    <li>Aboterasu's <Link href="https://discord.gg/6FpzxyWAU8" style={{ color: "blueviolet" }}>Discord Support Server</Link></li>
+                    <li>Aboterasu\'s <Link href="https://discord.gg/6FpzxyWAU8" style={{ color: "blueviolet" }}>Discord Support Server</Link></li>
                     <li>thekayaya on Discord</li>
                 </ol>
             </ol>

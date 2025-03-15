@@ -28,7 +28,7 @@ export default function TermsOfService() {
             </Link>
             <h1>Terms of Service for Aboterasu (Aboterasu#7281)</h1>
             <h2>Effective Date: 13th March, 2025</h2>
-            <p>Welcome to Aboterasu (the "Bot"). By using the Bot, you agree to comply with and be bound by the following Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the Bot.</p>
+            <p>Welcome to Aboterasu (the \"Bot\"). By using the Bot, you agree to comply with and be bound by the following Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the Bot.</p>
             <ol style={{ listStyleType: 'upper-roman' }}>
                 <li><b>Acceptance of Terms</b></li>
                 <p>By accessing or using the Bot, you confirm that you have read, understood, and agree to be bound by these Terms. If you are using the Bot on behalf of an organization, you represent that you have the authority to bind that organization to these Terms.</p>
