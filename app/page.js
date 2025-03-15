@@ -9,7 +9,7 @@ export default function Home() {
   const items = [
     { src: '/god-details.png', title: 'God Details', description: 'Get details of abilities, aspects, lore - with even more detail than in-game!' },
     { src: '/builds.png', title: 'Builds', description: 'Need a build? Find some of the best, mathematically curated builds from the SMITE Discord Mentors - some of the top active players in SMITE2' },
-    { src: '/tips.png', title: 'Tips', description: 'Sometimes there are secrets to playing a god well - they aren\'t secrets anymore' },
+    { src: '/tips.png', title: 'Tips', description: 'Sometimes there are secrets to playing a god well - they aren&apos;t secrets anymore' },
     { src: '/guides.png', title: 'Guides', description: 'View detailed analytics on how to play a god, their highs, lows, matchups, and much more!' },
     { src: '/items.png', title: 'Items', description: 'Get information about an item from SMITE2 - with even more detail than in-game!' },
     { src: '/custombuilds.png', title: 'Custom Builds', description: 'Want to show off a build? Want to check stats on a build? No more hunting for websites - get it right in your Discord server, with stats provided by https://smitecalculator.pro!' },
@@ -85,7 +85,7 @@ export default function Home() {
             Invite Aboterasu to your Server!
           </Link>
         </p>
-        <p style={{ fontSize: 20, paddingTop: '30px' }}>Some of Aboterasu\'s features:</p>
+        <p style={{ fontSize: 20, paddingTop: '30px' }}>Some of Aboterasu&apos;s features:</p>
         <div ref={scrollRef} style={{ overflowX: 'auto', whiteSpace: 'nowrap', padding: '50px 0' }}>
           {items.concat(items).map((item, index) => ( // Duplicate items for circular effect
             <div
@@ -174,7 +174,7 @@ export default function Home() {
               onMouseLeave={() => setIsHovered(false)}
             />
           </a>
-          <p>Mytharria\'s Calculator</p>
+          <p>Mytharria&apos;s Calculator</p>
         </div>
       </div>
       <nav style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', textAlign: 'center', marginTop: '20px' }}>
